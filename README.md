@@ -17,5 +17,4 @@ This is a simple template of project.
 1. Documents contains output-files,dataset,Code,other things.
 ## Conclusion 
 ## Contact
-This project is committed by [Nicoa](nick5901879@gmail.com) in somewhere
-Any problem,please contact nick5901879@gmail.com
+This project is committed by [Nicoa](nick5901879@gmail.com) in somewhere.Any problem,please contact nick5901879@gmail.com
